@@ -1,0 +1,201 @@
+id,uatu:date,smartbi:customer,smartbi:delivery_country,smartbi:delivery_region,smartbi:delivery_pc,smartbi:product_code,smartbi:product_name,smartbi:product_family,smartbi:sold_quant,smartbi:sold_price,smartbi:unit_cost,smartbi:product_category,smartbi:provider,smartbi:delivery_address,smartbi:delivery_street,smartbi:delivery_city
+1,14/4/2020,A,Italy,Abruzzo,Teramo,1,XY:1,XY,25,100,80,CAT1,Forn1,Via Roma 2,40293,Teramo
+2,15/4/2020,A,Italy,Lombardia,Varese,1,XY:1,XY,27,99.5,79.5,CAT1,Forn1,Via Roma 3,40293,Varese
+3,16/4/2020,A,Italy,Valle d'Aosta,Aosta,1,XY:1,XY,29,99,79,CAT1,Forn1,Via Roma 4,40293,Aosta
+4,17/4/2020,A,Italy,Liguria,Savona,1,XY:1,XY,31,98.5,78.5,CAT1,Forn1,Via Roma 5,40293,Savona
+5,18/4/2020,A,Italy,Friuli Venezia Giulia,Udine,1,XY:1,XY,33,98,78,CAT1,Forn1,Via Roma 6,40293,Udine
+6,19/4/2020,A,Italy,Abruzzo,Teramo,1,XY:1,XY,35,97.5,77.5,CAT1,Forn1,Via Roma 7,40293,Teramo
+7,20/4/2020,A,Italy,Umbria,Terni,1,XY:1,XY,37,97,77,CAT1,Forn1,Via Roma 8,40293,Terni
+8,21/4/2020,A,Italy,Basilicata,Potenza,1,XY:1,XY,39,96.5,76.5,CAT1,Forn1,Via Roma 9,40293,Potenza
+9,22/4/2020,A,Italy,Lazio,Viterbo,1,XY:1,XY,41,97,76,CAT1,Forn1,Via Roma 10,40293,Viterbo
+10,23/4/2020,A,Italy,Puglia,Taranto,1,XY:1,XY,43,97.5,75.5,CAT1,Forn1,Via Roma 11,40293,Taranto
+11,24/4/2020,A,Italy,Friuli Venezia Giulia,Udine,1,XY:1,XY,45,98,75,CAT1,Forn1,Via Roma 12,40293,Udine
+12,25/4/2020,A,Italy,Sardegna,Sud Sardegna,1,XY:1,XY,47,98.5,74.5,CAT1,Forn1,Via Roma 13,40293,Sud Sardegna
+13,26/4/2020,A,Italy,Abruzzo,Teramo,1,XY:1,XY,49,99,74,CAT1,Forn1,Via Roma 14,40293,Teramo
+14,27/4/2020,A,Italy,Basilicata,Potenza,1,XY:1,XY,51,99.5,73.5,CAT1,Forn1,Via Roma 15,40293,Potenza
+15,28/4/2020,A,Italy,Sardegna,Sud Sardegna,1,XY:1,XY,53,100,73,CAT1,Forn1,Via Roma 16,40293,Sud Sardegna
+16,29/4/2020,A,Italy,Sicilia,Trapani,1,XY:1,XY,55,100.5,72.5,CAT1,Forn1,Via Roma 17,40293,Trapani
+17,30/4/2020,A,Italy,Calabria,Vibo Valentia,1,XY:1,XY,57,101,72,CAT1,Forn1,Via Roma 18,40293,Vibo Valentia
+18,1/5/2020,A,Italy,Emilia-Romagna,Rimini,1,XY:1,XY,59,101.5,71.5,CAT1,Forn1,Via Roma 19,40293,Rimini
+19,2/5/2020,A,Italy,Sardegna,Sud Sardegna,1,XY:1,XY,61,102,71,CAT1,Forn1,Via Roma 20,40293,Sud Sardegna
+20,3/5/2020,A,Italy,Valle d'Aosta,Aosta,1,XY:1,XY,63,102.5,71.5,CAT1,Forn1,Via Roma 21,40293,Aosta
+21,4/5/2020,A,Italy,Abruzzo,Teramo,1,XY:1,XY,65,90,72,CAT1,Forn1,Via Roma 22,40293,Teramo
+22,5/5/2020,A,Italy,Piemonte,Vercelli,1,XY:1,XY,67,89.5,72.5,CAT1,Forn1,Via Roma 23,40293,Vercelli
+23,6/5/2020,A,Italy,Sicilia,Trapani,1,XY:1,XY,69,89,73,CAT1,Forn1,Via Roma 24,40293,Trapani
+24,7/5/2020,A,Italy,Trentino-Alto Adige,Trento,1,XY:1,XY,71,88.5,73.5,CAT1,Forn1,Via Roma 25,40293,Trento
+25,8/5/2020,A,Italy,Veneto,Vicenza,1,XY:1,XY,73,88,74,CAT1,Forn1,Via Roma 26,40293,Vicenza
+26,9/5/2020,A,Italy,Abruzzo,Teramo,1,XY:1,XY,75,87.5,74.5,CAT1,Forn1,Via Roma 27,40293,Teramo
+27,10/5/2020,A,Italy,Abruzzo,Teramo,1,XY:1,XY,77,87,75,CAT1,Forn1,Via Roma 28,40293,Teramo
+28,11/5/2020,A,Italy,Puglia,Taranto,1,XY:1,XY,79,86.5,75.5,CAT1,Forn1,Via Roma 29,40293,Taranto
+29,12/5/2020,A,Italy,Umbria,Terni,1,XY:1,XY,81,86,76,CAT1,Forn1,Via Roma 30,40293,Terni
+30,13/5/2020,A,Italy,Basilicata,Potenza,1,XY:1,XY,83,85.5,76.5,CAT1,Forn1,Via Roma 31,40293,Potenza
+31,14/5/2020,A,Italy,Basilicata,Potenza,1,XY:1,XY,85,85,77,CAT1,Forn1,Via Roma 32,40293,Potenza
+32,15/5/2020,A,Italy,Piemonte,Vercelli,1,XY:1,XY,87,84.5,77.5,CAT1,Forn1,Via Roma 33,40293,Vercelli
+33,16/5/2020,A,Italy,Lazio,Viterbo,1,XY:1,XY,89,84,78,CAT1,Forn1,Via Roma 34,40293,Viterbo
+34,17/5/2020,A,Italy,Calabria,Vibo Valentia,1,XY:1,XY,80,84.5,78.5,CAT1,Forn1,Via Roma 35,40293,Vibo Valentia
+35,18/5/2020,A,Italy,Lazio,Viterbo,1,XY:1,XY,80,85,79,CAT1,Forn1,Via Roma 36,40293,Viterbo
+36,19/5/2020,A,Italy,Friuli Venezia Giulia,Udine,1,XY:1,XY,80,85.5,79.5,CAT1,Forn1,Via Roma 37,40293,Udine
+37,20/5/2020,A,Italy,Puglia,Taranto,1,XY:1,XY,80,86,80,CAT1,Forn1,Via Roma 38,40293,Taranto
+38,21/5/2020,A,Italy,Sicilia,Trapani,1,XY:1,XY,80,86.5,80.5,CAT1,Forn1,Via Roma 39,40293,Trapani
+39,22/5/2020,A,Italy,Piemonte,Vercelli,1,XY:1,XY,80,87,81,CAT1,Forn1,Via Roma 40,40293,Vercelli
+40,23/5/2020,A,Italy,Lazio,Viterbo,1,XY:1,XY,80,87.5,80,CAT1,Forn1,Via Roma 41,40293,Viterbo
+41,24/5/2020,A,Italy,Lazio,Viterbo,1,XY:1,XY,80,88,79,CAT1,Forn1,Via Roma 42,40293,Viterbo
+42,25/5/2020,A,Italy,Molise,Isernia,1,XY:1,XY,78,88.5,78,CAT1,Forn1,Via Roma 43,40293,Isernia
+43,26/5/2020,A,Italy,Toscana,Siena,1,XY:1,XY,76,89,77,CAT1,Forn1,Via Roma 44,40293,Siena
+44,27/5/2020,A,Italy,Abruzzo,Teramo,1,XY:1,XY,74,89.5,76,CAT1,Forn1,Via Roma 45,40293,Teramo
+45,28/5/2020,A,Italy,Sicilia,Trapani,1,XY:1,XY,72,90,75,CAT1,Forn1,Via Roma 46,40293,Trapani
+46,29/5/2020,A,Italy,Piemonte,Vercelli,1,XY:1,XY,70,90.5,74,CAT1,Forn1,Via Roma 47,40293,Vercelli
+47,30/5/2020,A,Italy,Friuli Venezia Giulia,Udine,1,XY:1,XY,68,91,73,CAT1,Forn1,Via Roma 48,40293,Udine
+48,31/5/2020,A,Italy,Marche,Pesaro e Urbino,1,XY:1,XY,66,91.5,72,CAT1,Forn1,Via Roma 49,40293,Pesaro e Urbino
+49,1/6/2020,A,Italy,Basilicata,Potenza,1,XY:1,XY,65,92,71,CAT1,Forn1,Via Roma 50,40293,Potenza
+50,2/6/2020,A,Italy,Friuli Venezia Giulia,Udine,1,XY:1,XY,63,92.5,70,CAT1,Forn1,Via Roma 51,40293,Udine
+51,3/6/2020,A,Italy,Lombardia,Varese,1,XY:1,XY,61,93,69,CAT1,Forn1,Via Roma 52,40293,Varese
+52,4/6/2020,A,Italy,Calabria,Vibo Valentia,1,XY:1,XY,50,93.5,68,CAT1,Forn1,Via Roma 53,40293,Vibo Valentia
+53,5/6/2020,A,Italy,Valle d'Aosta,Aosta,1,XY:1,XY,50,94,67,CAT1,Forn1,Via Roma 54,40293,Aosta
+54,6/6/2020,A,Italy,Friuli Venezia Giulia,Udine,1,XY:1,XY,50,94.5,66,CAT1,Forn1,Via Roma 55,40293,Udine
+55,7/6/2020,A,Italy,Basilicata,Potenza,1,XY:1,XY,50,95,65,CAT1,Forn1,Via Roma 56,40293,Potenza
+56,8/6/2020,A,Italy,Liguria,Savona,1,XY:1,XY,50,95.5,64,CAT1,Forn1,Via Roma 57,40293,Savona
+57,9/6/2020,A,Italy,Umbria,Terni,1,XY:1,XY,50,96,63,CAT1,Forn1,Via Roma 58,40293,Terni
+58,10/6/2020,A,Italy,Marche,Pesaro e Urbino,1,XY:1,XY,45,96.5,78.165,CAT1,Forn1,Via Roma 59,40293,Pesaro e Urbino
+59,11/6/2020,A,Italy,Campania,Salerno,1,XY:1,XY,43,97,78.57,CAT1,Forn1,Via Roma 60,40293,Salerno
+60,12/6/2020,A,Italy,Calabria,Vibo Valentia,1,XY:1,XY,35,97.5,78.975,CAT1,Forn1,Via Roma 61,40293,Vibo Valentia
+61,13/6/2020,A,Italy,Umbria,Terni,1,XY:1,XY,33,98,79.38,CAT1,Forn1,Via Roma 62,40293,Terni
+62,14/6/2020,A,Italy,Lazio,Viterbo,1,XY:1,XY,31,99,80.19,CAT1,Forn1,Via Roma 63,40293,Viterbo
+63,15/6/2020,A,Italy,Veneto,Vicenza,1,XY:1,XY,29,100,81,CAT1,Forn1,Via Roma 64,40293,Vicenza
+64,16/6/2020,A,Italy,Liguria,Savona,1,XY:1,XY,27,101,81.81,CAT1,Forn1,Via Roma 65,40293,Savona
+65,17/6/2020,A,Italy,Liguria,Savona,1,XY:1,XY,25,102,82.62,CAT1,Forn1,Via Roma 66,40293,Savona
+66,18/6/2020,A,Italy,Lazio,Viterbo,1,XY:1,XY,23,103,83.43,CAT1,Forn1,Via Roma 67,40293,Viterbo
+67,19/6/2020,A,Italy,Basilicata,Potenza,1,XY:1,XY,22,104,84.24,CAT1,Forn1,Via Roma 68,40293,Potenza
+68,20/6/2020,A,Italy,Calabria,Vibo Valentia,1,XY:1,XY,21,105,85.05,CAT1,Forn1,Via Roma 69,40293,Vibo Valentia
+69,21/6/2020,A,Italy,Veneto,Vicenza,1,XY:1,XY,20,106,116.6,CAT1,Forn1,Via Roma 70,40293,Vicenza
+70,22/6/2020,A,Italy,Veneto,Vicenza,1,XY:1,XY,19,107,117.7,CAT1,Forn1,Via Roma 71,40293,Vicenza
+71,23/6/2020,A,Italy,Lazio,Viterbo,1,XY:1,XY,18,108,118.8,CAT1,Forn1,Via Roma 72,40293,Viterbo
+72,24/6/2020,A,Italy,Marche,Pesaro e Urbino,1,XY:1,XY,17,109,119.9,CAT1,Forn1,Via Roma 73,40293,Pesaro e Urbino
+73,25/6/2020,A,Italy,Piemonte,Vercelli,1,XY:1,XY,16,110,121,CAT1,Forn1,Via Roma 74,40293,Vercelli
+74,26/6/2020,A,Italy,Marche,Pesaro e Urbino,1,XY:1,XY,15,111,122.1,CAT1,Forn1,Via Roma 75,40293,Pesaro e Urbino
+75,27/6/2020,A,Italy,Veneto,Vicenza,1,XY:1,XY,14,112,120,CAT1,Forn1,Via Roma 76,40293,Vicenza
+76,28/6/2020,A,Italy,Puglia,Taranto,1,XY:1,XY,13,113,124.3,CAT1,Forn1,Via Roma 77,40293,Taranto
+77,29/6/2020,A,Italy,Liguria,Savona,1,XY:1,XY,12,114,125.4,CAT1,Forn1,Via Roma 78,40293,Savona
+78,30/6/2020,A,Italy,Liguria,Savona,1,XY:1,XY,11,115,126.5,CAT1,Forn1,Via Roma 79,40293,Savona
+79,1/7/2020,A,Italy,Molise,Isernia,1,XY:1,XY,10,116,127.6,CAT1,Forn1,Via Roma 80,40293,Isernia
+80,2/7/2020,A,Italy,Veneto,Vicenza,1,XY:1,XY,9,117,128.7,CAT1,Forn1,Via Roma 81,40293,Vicenza
+81,3/7/2020,A,Italy,Piemonte,Vercelli,1,XY:1,XY,8,118,129.8,CAT1,Forn1,Via Roma 82,40293,Vercelli
+82,4/7/2020,A,Italy,Toscana,Siena,1,XY:1,XY,7,116,130.9,CAT1,Forn1,Via Roma 83,40293,Siena
+83,5/7/2020,A,Italy,Friuli Venezia Giulia,Udine,1,XY:1,XY,6,114,132,CAT1,Forn1,Via Roma 84,40293,Udine
+84,6/7/2020,A,Italy,Lombardia,Varese,1,XY:1,XY,59,112,133.1,CAT1,Forn1,Via Roma 85,40293,Varese
+85,7/7/2020,A,Italy,Basilicata,Potenza,1,XY:1,XY,61,110,134.2,CAT1,Forn1,Via Roma 86,40293,Potenza
+86,8/7/2020,A,Italy,Trentino-Alto Adige,Trento,1,XY:1,XY,63,108,135.3,CAT1,Forn1,Via Roma 87,40293,Trento
+87,9/7/2020,A,Italy,Toscana,Siena,1,XY:1,XY,65,106,133.1,CAT1,Forn1,Via Roma 88,40293,Siena
+88,10/7/2020,A,Italy,Liguria,Savona,1,XY:1,XY,67,104,130.9,CAT1,Forn1,Via Roma 89,40293,Savona
+89,11/7/2020,A,Italy,Marche,Pesaro e Urbino,1,XY:1,XY,69,102,128.7,CAT1,Forn1,Via Roma 90,40293,Pesaro e Urbino
+90,12/7/2020,A,Italy,Campania,Salerno,1,XY:1,XY,71,100,126.5,CAT1,Forn1,Via Roma 91,40293,Salerno
+91,13/7/2020,A,Italy,Puglia,Taranto,1,XY:1,XY,73,98,124.3,CAT1,Forn1,Via Roma 92,40293,Taranto
+92,14/7/2020,A,Italy,Calabria,Vibo Valentia,1,XY:1,XY,75,96,122.1,CAT1,Forn1,Via Roma 93,40293,Vibo Valentia
+93,15/7/2020,A,Italy,Sicilia,Trapani,1,XY:1,XY,77,94,119.9,CAT1,Forn1,Via Roma 94,40293,Trapani
+94,16/7/2020,A,Italy,Campania,Salerno,1,XY:1,XY,79,92,117.7,CAT1,Forn1,Via Roma 95,40293,Salerno
+95,17/7/2020,A,Italy,Molise,Isernia,1,XY:1,XY,81,90,115.5,CAT1,Forn1,Via Roma 96,40293,Isernia
+96,18/7/2020,A,Italy,Calabria,Vibo Valentia,1,XY:1,XY,83,88,113.3,CAT1,Forn1,Via Roma 97,40293,Vibo Valentia
+97,19/7/2020,A,Italy,Valle d'Aosta,Aosta,1,XY:1,XY,85,86,111.1,CAT1,Forn1,Via Roma 98,40293,Aosta
+98,20/7/2020,A,Italy,Sardegna,Sud Sardegna,1,XY:1,XY,87,84,108.9,CAT1,Forn1,Via Roma 99,40293,Sud Sardegna
+99,21/7/2020,A,Italy,Marche,Pesaro e Urbino,1,XY:1,XY,89,82,106.7,CAT1,Forn1,Via Roma 100,40293,Pesaro e Urbino
+100,22/7/2020,A,Italy,Lombardia,Varese,1,XY:1,XY,95,80,104.5,CAT1,Forn1,Via Roma 101,40293,Varese
+101,14/4/2020,F,Italy,Toscana,Siena,2,XT:2,XT,220,54,40,CAT1,Forn1,Via Roma 102,40293,Siena
+102,15/4/2020,F,Italy,Lazio,Viterbo,2,XT:2,XT,212,53,40.3,CAT1,Forn1,Via Roma 103,40293,Viterbo
+103,16/4/2020,F,Italy,Emilia-Romagna,Rimini,2,XT:2,XT,221,54,40.6,CAT1,Forn1,Via Roma 104,40293,Rimini
+104,17/4/2020,F,Italy,Marche,Pesaro e Urbino,2,XT:2,XT,234,52,40.9,CAT1,Forn1,Via Roma 105,40293,Pesaro e Urbino
+105,18/4/2020,F,Italy,Sardegna,Sud Sardegna,2,XT:2,XT,233,51,41.2,CAT1,Forn1,Via Roma 106,40293,Sud Sardegna
+106,19/4/2020,F,Italy,Marche,Pesaro e Urbino,2,XT:2,XT,268,54,41.5,CAT1,Forn1,Via Roma 107,40293,Pesaro e Urbino
+107,20/4/2020,F,Italy,Veneto,Vicenza,2,XT:2,XT,245,56,41.8,CAT1,Forn1,Via Roma 108,40293,Vicenza
+108,21/4/2020,F,Italy,Abruzzo,Teramo,2,XT:2,XT,254,52,42.1,CAT1,Forn1,Via Roma 109,40293,Teramo
+109,22/4/2020,F,Italy,Sicilia,Trapani,2,XT:2,XT,276,50,42.4,CAT1,Forn1,Via Roma 110,40293,Trapani
+110,23/4/2020,F,Italy,Toscana,Siena,2,XT:2,XT,211,50,42.7,CAT1,Forn1,Via Roma 111,40293,Siena
+111,24/4/2020,F,Italy,Lombardia,Varese,2,XT:2,XT,220,51,43,CAT1,Forn1,Via Roma 112,40293,Varese
+112,25/4/2020,F,Italy,Emilia-Romagna,Rimini,2,XT:2,XT,220,52,43.3,CAT1,Forn1,Via Roma 113,40293,Rimini
+113,26/4/2020,F,Italy,Molise,Isernia,2,XT:2,XT,220,51,43.6,CAT1,Forn1,Via Roma 114,40293,Isernia
+114,27/4/2020,F,Italy,Lazio,Viterbo,2,XT:2,XT,220,50,43.9,CAT1,Forn1,Via Roma 115,40293,Viterbo
+115,28/4/2020,F,Italy,Sicilia,Trapani,2,XT:2,XT,220,50,44.2,CAT1,Forn1,Via Roma 116,40293,Trapani
+116,29/4/2020,F,Italy,Toscana,Siena,2,XT:2,XT,220,49,44.5,CAT1,Forn1,Via Roma 117,40293,Siena
+117,30/4/2020,F,Italy,Lazio,Viterbo,2,XT:2,XT,243,51,44.8,CAT1,Forn1,Via Roma 118,40293,Viterbo
+118,1/5/2020,F,Italy,Toscana,Siena,2,XT:2,XT,239,48,45.1,CAT1,Forn1,Via Roma 119,40293,Siena
+119,2/5/2020,F,Italy,Molise,Isernia,2,XT:2,XT,245,50,45.4,CAT1,Forn1,Via Roma 120,40293,Isernia
+120,3/5/2020,F,Italy,Puglia,Taranto,2,XT:2,XT,264,50.3,45.7,CAT1,Forn1,Via Roma 121,40293,Taranto
+121,4/5/2020,F,Italy,Basilicata,Potenza,2,XT:2,XT,260,50.6,45.4,CAT1,Forn1,Via Roma 122,40293,Potenza
+122,5/5/2020,F,Italy,Friuli Venezia Giulia,Udine,2,XT:2,XT,258,50.9,45.1,CAT1,Forn1,Via Roma 123,40293,Udine
+123,6/5/2020,F,Italy,Campania,Salerno,2,XT:2,XT,233,51.2,44.8,CAT1,Forn1,Via Roma 124,40293,Salerno
+124,7/5/2020,F,Italy,Veneto,Vicenza,2,XT:2,XT,248,51.5,44.5,CAT1,Forn1,Via Roma 125,40293,Vicenza
+125,8/5/2020,F,Italy,Veneto,Vicenza,2,XT:2,XT,231,51.8,44.2,CAT1,Forn1,Via Roma 126,40293,Vicenza
+126,9/5/2020,F,Italy,Puglia,Taranto,2,XT:2,XT,220,52.1,43.9,CAT1,Forn1,Via Roma 127,40293,Taranto
+127,10/5/2020,F,Italy,Friuli Venezia Giulia,Udine,2,XT:2,XT,240,52.4,43.6,CAT1,Forn1,Via Roma 128,40293,Udine
+128,11/5/2020,F,Italy,Lazio,Viterbo,2,XT:2,XT,212,52.7,43.3,CAT1,Forn1,Via Roma 129,40293,Viterbo
+129,12/5/2020,F,Italy,Puglia,Taranto,2,XT:2,XT,210,53,43,CAT1,Forn1,Via Roma 130,40293,Taranto
+130,13/5/2020,F,Italy,Emilia-Romagna,Rimini,2,XT:2,XT,209,53.3,42.7,CAT1,Forn1,Via Roma 131,40293,Rimini
+131,14/5/2020,F,Italy,Lombardia,Varese,2,XT:2,XT,220,53.6,42.4,CAT1,Forn1,Via Roma 132,40293,Varese
+132,15/5/2020,F,Italy,Liguria,Savona,2,XT:2,XT,211,53.9,42.1,CAT1,Forn1,Via Roma 133,40293,Savona
+133,16/5/2020,F,Italy,Marche,Pesaro e Urbino,2,XT:2,XT,212,54.2,41.8,CAT1,Forn1,Via Roma 134,40293,Pesaro e Urbino
+134,17/5/2020,F,Italy,Campania,Salerno,2,XT:2,XT,230,54.5,41.5,CAT1,Forn1,Via Roma 135,40293,Salerno
+135,18/5/2020,F,Italy,Emilia-Romagna,Rimini,2,XT:2,XT,205,54.8,41.2,CAT1,Forn1,Via Roma 136,40293,Rimini
+136,19/5/2020,F,Italy,Liguria,Savona,2,XT:2,XT,210,55.1,40.9,CAT1,Forn1,Via Roma 137,40293,Savona
+137,20/5/2020,F,Italy,Lazio,Viterbo,2,XT:2,XT,222,55.4,40.6,CAT1,Forn1,Via Roma 138,40293,Viterbo
+138,21/5/2020,F,Italy,Umbria,Terni,2,XT:2,XT,208,55.7,40.3,CAT1,Forn1,Via Roma 139,40293,Terni
+139,22/5/2020,F,Italy,Liguria,Savona,2,XT:2,XT,204,56,40,CAT1,Forn1,Via Roma 140,40293,Savona
+140,23/5/2020,F,Italy,Puglia,Taranto,2,XT:2,XT,201,56.3,39.7,CAT1,Forn1,Via Roma 141,40293,Taranto
+141,24/5/2020,F,Italy,Puglia,Taranto,2,XT:2,XT,200,56.6,39.7,CAT1,Forn1,Via Roma 142,40293,Taranto
+142,25/5/2020,F,Italy,Molise,Isernia,2,XT:2,XT,199,56.9,39.7,CAT1,Forn1,Via Roma 143,40293,Isernia
+143,26/5/2020,F,Italy,Emilia-Romagna,Rimini,2,XT:2,XT,198,57.2,39.7,CAT1,Forn1,Via Roma 144,40293,Rimini
+144,27/5/2020,F,Italy,Liguria,Savona,2,XT:2,XT,197,57.5,39.7,CAT1,Forn1,Via Roma 145,40293,Savona
+145,28/5/2020,F,Italy,Sicilia,Trapani,2,XT:2,XT,196,57.8,39.7,CAT1,Forn1,Via Roma 146,40293,Trapani
+146,29/5/2020,F,Italy,Umbria,Terni,2,XT:2,XT,195,58.1,39.7,CAT1,Forn1,Via Roma 147,40293,Terni
+147,30/5/2020,F,Italy,Umbria,Terni,2,XT:2,XT,194,58.4,39.7,CAT1,Forn1,Via Roma 148,40293,Terni
+148,31/5/2020,F,Italy,Piemonte,Vercelli,2,XT:2,XT,193,58.7,39.7,CAT1,Forn1,Via Roma 149,40293,Vercelli
+149,1/6/2020,F,Italy,Piemonte,Vercelli,2,XT:2,XT,192,59,40,CAT1,Forn1,Via Roma 150,40293,Vercelli
+150,2/6/2020,F,Italy,Valle d'Aosta,Aosta,2,XT:2,XT,191,59.3,40.3,CAT1,Forn1,Via Roma 151,40293,Aosta
+151,3/6/2020,F,Italy,Sardegna,Sud Sardegna,2,XT:2,XT,190,59.6,40.6,CAT1,Forn1,Via Roma 152,40293,Sud Sardegna
+152,4/6/2020,F,Italy,Campania,Salerno,2,XT:2,XT,189,59.9,40.9,CAT1,Forn1,Via Roma 153,40293,Salerno
+153,5/6/2020,F,Italy,Sicilia,Trapani,2,XT:2,XT,188,60.2,41.2,CAT1,Forn1,Via Roma 154,40293,Trapani
+154,6/6/2020,F,Italy,Puglia,Taranto,2,XT:2,XT,187,60.5,41.5,CAT1,Forn1,Via Roma 155,40293,Taranto
+155,7/6/2020,F,Italy,Friuli Venezia Giulia,Udine,2,XT:2,XT,186,60.8,41.8,CAT1,Forn1,Via Roma 156,40293,Udine
+156,8/6/2020,F,Italy,Friuli Venezia Giulia,Udine,2,XT:2,XT,185,61.1,42.1,CAT1,Forn1,Via Roma 157,40293,Udine
+157,9/6/2020,F,Italy,Sardegna,Sud Sardegna,2,XT:2,XT,184,61.4,42.4,CAT1,Forn1,Via Roma 158,40293,Sud Sardegna
+158,10/6/2020,F,Italy,Umbria,Terni,2,XT:2,XT,183,61.7,42.7,CAT1,Forn1,Via Roma 159,40293,Terni
+159,11/6/2020,F,Italy,Piemonte,Vercelli,2,XT:2,XT,182,62,43,CAT1,Forn1,Via Roma 160,40293,Vercelli
+160,12/6/2020,F,Italy,Emilia-Romagna,Rimini,2,XT:2,XT,181,62.3,43.3,CAT1,Forn1,Via Roma 161,40293,Rimini
+161,13/6/2020,F,Italy,Puglia,Taranto,2,XT:2,XT,180,62.6,43.6,CAT1,Forn1,Via Roma 162,40293,Taranto
+162,14/6/2020,F,Italy,Molise,Isernia,2,XT:2,XT,179,62.9,43.9,CAT1,Forn1,Via Roma 163,40293,Isernia
+163,15/6/2020,F,Italy,Piemonte,Vercelli,2,XT:2,XT,178,63.2,44.2,CAT1,Forn1,Via Roma 164,40293,Vercelli
+164,16/6/2020,F,Italy,Basilicata,Potenza,2,XT:2,XT,177,63.5,44.5,CAT1,Forn1,Via Roma 165,40293,Potenza
+165,17/6/2020,F,Italy,Sicilia,Trapani,2,XT:2,XT,176,63.8,44.8,CAT1,Forn1,Via Roma 166,40293,Trapani
+166,18/6/2020,F,Italy,Campania,Salerno,2,XT:2,XT,175,64.1,45.1,CAT1,Forn1,Via Roma 167,40293,Salerno
+167,19/6/2020,F,Italy,Marche,Pesaro e Urbino,2,XT:2,XT,176,64.4,45.4,CAT1,Forn1,Via Roma 168,40293,Pesaro e Urbino
+168,20/6/2020,F,Italy,Lombardia,Varese,2,XT:2,XT,177,64.7,45.7,CAT1,Forn1,Via Roma 169,40293,Varese
+169,21/6/2020,F,Italy,Puglia,Taranto,2,XT:2,XT,178,65,45.5,CAT1,Forn1,Via Roma 170,40293,Taranto
+170,22/6/2020,F,Italy,Molise,Isernia,2,XT:2,XT,179,65.3,45.3,CAT1,Forn1,Via Roma 171,40293,Isernia
+171,23/6/2020,F,Italy,Veneto,Vicenza,2,XT:2,XT,180,65.6,45.1,CAT1,Forn1,Via Roma 172,40293,Vicenza
+172,24/6/2020,F,Italy,Valle d'Aosta,Aosta,2,XT:2,XT,181,65,44.9,CAT1,Forn1,Via Roma 173,40293,Aosta
+173,25/6/2020,F,Italy,Marche,Pesaro e Urbino,2,XT:2,XT,182,64.4,44.7,CAT1,Forn1,Via Roma 174,40293,Pesaro e Urbino
+174,26/6/2020,F,Italy,Umbria,Terni,2,XT:2,XT,183,63.8,44.5,CAT1,Forn1,Via Roma 175,40293,Terni
+175,27/6/2020,F,Italy,Emilia-Romagna,Rimini,2,XT:2,XT,184,63.2,44.3,CAT1,Forn1,Via Roma 176,40293,Rimini
+176,28/6/2020,F,Italy,Umbria,Terni,2,XT:2,XT,185,62.6,44.1,CAT1,Forn1,Via Roma 177,40293,Terni
+177,29/6/2020,F,Italy,Friuli Venezia Giulia,Udine,2,XT:2,XT,186,62,43.9,CAT1,Forn1,Via Roma 178,40293,Udine
+178,30/6/2020,F,Italy,Umbria,Terni,2,XT:2,XT,187,61.4,43.7,CAT1,Forn1,Via Roma 179,40293,Terni
+179,1/7/2020,F,Italy,Puglia,Taranto,2,XT:2,XT,188,60.8,43.5,CAT1,Forn1,Via Roma 180,40293,Taranto
+180,2/7/2020,F,Italy,Emilia-Romagna,Rimini,2,XT:2,XT,189,60.2,43.3,CAT1,Forn1,Via Roma 181,40293,Rimini
+181,3/7/2020,F,Italy,Toscana,Siena,2,XT:2,XT,190,59.6,43.1,CAT1,Forn1,Via Roma 182,40293,Siena
+182,4/7/2020,F,Italy,Friuli Venezia Giulia,Udine,2,XT:2,XT,191,59,42.9,CAT1,Forn1,Via Roma 183,40293,Udine
+183,5/7/2020,F,Italy,Umbria,Terni,2,XT:2,XT,192,58.4,42.7,CAT1,Forn1,Via Roma 184,40293,Terni
+184,6/7/2020,F,Italy,Basilicata,Potenza,2,XT:2,XT,193,57.8,42.5,CAT1,Forn1,Via Roma 185,40293,Potenza
+185,7/7/2020,F,Italy,Valle d'Aosta,Aosta,2,XT:2,XT,194,57.2,42.3,CAT1,Forn1,Via Roma 186,40293,Aosta
+186,8/7/2020,F,Italy,Abruzzo,Teramo,2,XT:2,XT,195,56.6,42.1,CAT1,Forn1,Via Roma 187,40293,Teramo
+187,9/7/2020,F,Italy,Friuli Venezia Giulia,Udine,2,XT:2,XT,196,56,41.9,CAT1,Forn1,Via Roma 188,40293,Udine
+188,10/7/2020,F,Italy,Liguria,Savona,2,XT:2,XT,197,55.4,41.7,CAT1,Forn1,Via Roma 189,40293,Savona
+189,11/7/2020,F,Italy,Toscana,Siena,2,XT:2,XT,198,54.8,41.5,CAT1,Forn1,Via Roma 190,40293,Siena
+190,12/7/2020,F,Italy,Emilia-Romagna,Rimini,2,XT:2,XT,199,54.2,41.3,CAT1,Forn1,Via Roma 191,40293,Rimini
+191,13/7/2020,F,Italy,Valle d'Aosta,Aosta,2,XT:2,XT,200,53.6,41.1,CAT1,Forn1,Via Roma 192,40293,Aosta
+192,14/7/2020,F,Italy,Lazio,Viterbo,2,XT:2,XT,201,53,40.9,CAT1,Forn1,Via Roma 193,40293,Viterbo
+193,15/7/2020,F,Italy,Lazio,Viterbo,2,XT:2,XT,202,52.4,40.7,CAT1,Forn1,Via Roma 194,40293,Viterbo
+194,16/7/2020,F,Italy,Calabria,Vibo Valentia,2,XT:2,XT,203,51.8,40.5,CAT1,Forn1,Via Roma 195,40293,Vibo Valentia
+195,17/7/2020,F,Italy,Lombardia,Varese,2,XT:2,XT,204,51.2,40.3,CAT1,Forn1,Via Roma 196,40293,Varese
+196,18/7/2020,F,Italy,Marche,Pesaro e Urbino,2,XT:2,XT,205,50.6,40.1,CAT1,Forn1,Via Roma 197,40293,Pesaro e Urbino
+197,19/7/2020,F,Italy,Puglia,Taranto,2,XT:2,XT,206,50,39.9,CAT1,Forn1,Via Roma 198,40293,Taranto
+198,20/7/2020,F,Italy,Trentino-Alto Adige,Trento,2,XT:2,XT,207,49.4,39.7,CAT1,Forn1,Via Roma 199,40293,Trento
+199,21/7/2020,F,Italy,Sardegna,Sud Sardegna,2,XT:2,XT,208,48.8,39.5,CAT1,Forn1,Via Roma 200,40293,Sud Sardegna
+200,22/7/2020,F,Italy,Piemonte,Vercelli,2,XT:2,XT,209,48.2,39.3,CAT1,Forn1,Via Roma 201,40293,Vercelli
